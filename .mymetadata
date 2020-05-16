@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WeiZhiService"
+  id="myeclipse.1491221448494"
+  context-root="/WeiZhiService"
+  j2ee-spec="5.0"
+  archive="WeiZhiService.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
